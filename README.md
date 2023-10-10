@@ -1,6 +1,6 @@
 Hey there! I'm a former small business owner diving headfirst into the software development world. Fast learner, persistent, and have that entrepreneurial spark. I'm eager to jump into projects that are shaking things up in the industry! 🚀
 
-🔭 I’m currently working on ... DeckRocket! 🚀🚀🚀 A deckbuilding app for Magic the Gathering players  `MySQL` `Express` `React` `Node.js` 
+🔭 I’m currently working on ... [DeckRocket.net](DeckRocket.net)! 🚀🚀🚀 A deckbuilding app for Magic the Gathering players  `MySQL` `Express` `React` `Node.js` 
 
 🌱 I’m currently learning ... `Next.js` `typescript` and `MongoDB`
 
